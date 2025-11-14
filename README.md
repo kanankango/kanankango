@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm currently pursuing B.Tech in AI & ML, where I 
 ✨ Strong interest in UI/UX, automation, app ideas, and impactful digital products
 
 
-🛠️ My Skills & Tools (Real Ones Only 🚫 No Fake)
+🛠️ My Skills & Tools 
 
 Languages I Know:
 Java C HTML CSS
