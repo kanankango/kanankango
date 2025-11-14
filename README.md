@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm currently pursuing B.Tech in AI & ML, where I 
 
 🚀 About Me
 
-🎓 2nd year AI & ML student
+🎓 3rd year AI & ML student
 
 💼 E-Cell Coordinator
 
